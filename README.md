@@ -12,7 +12,7 @@ Utilizando o GIT baixe o projeto para uma pasta local:
 Caso seu ambiente não possua o NODEJS, baixe e instale a partir do site https://nodejs.org .
 Baixe também o gerenciador de pacotes NPM do site npmjs.com .
 
-Depois de instalar o NODEJS e o NPM, execute o comando abaixo para baixar as dependências do projeto:
+Depois de instalar o NODEJS e o NPM, execute o comando abaixo, dentro da pasta <b>parserolavo</b>, para baixar as dependências do projeto:
 
 > npm install
 
