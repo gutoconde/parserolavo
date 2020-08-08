@@ -52,7 +52,7 @@ Para recuperar mais detalhes sobre os Action Figures, execute o comando com a op
 
 Obs.: Essa operação pode demorar alguns minutos.
 
-###Definindo o nome do arquivo
+### Definindo o nome do arquivo
 
 É possível definir o nome do arquivo criado utilizando a opção <b>f</b>, conforme o comando abaixo :
 
