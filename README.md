@@ -1,8 +1,8 @@
-#DESCRIÇÃO
+# DESCRIÇÃO
 
 O parser Olavo é uma ferramenta para recuperar informações sobre Action Figures do Site Iron Studios (www.ironstudios.com.br). A princípio ele baixa figuras a partir do menu 'fabricante' (https://www.ironstudios.com.br/fabricante), mas ele pode ser ajustado para baixar a partir de qualquer menu do site, bastando substituir o valor da variável urlBase no arquivo index.js .
 
-##INSTALAÇÃO
+## INSTALAÇÃO
 
 Utilizando o GIT baixe o projeto para uma pasta local:
 
@@ -16,9 +16,9 @@ Depois de instalar o NODEJS e o NPM, execute o comando abaixo para baixar as dep
 
 > npm install
 
-##UTILIZAÇÃO
+## UTILIZAÇÃO
 
-###Exemplo Simples
+### Exemplo Simples
 
 Para recuperar informações básicas dos Action Figures, execute o comando :
 
@@ -32,7 +32,7 @@ Para recuperar informações básicas dos Action Figures, execute o comando :
 2020-08-08T21:01:30.288Z : Arquivo 08082020180130.json gerado com sucesso
 ```
 
-###Recuperando Informações Detalhadas
+### Recuperando Informações Detalhadas
 
 Para recuperar mais detalhes sobre os Action Figures, execute o comando com a opção <b>d</b> :
 
